@@ -1,5 +1,5 @@
 # smit_praktika_front
-Praktika konkurssi proovitöö front
+Praktika konkursi proovitöö front
 
 # frontend
 
